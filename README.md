@@ -21,4 +21,4 @@ It then will retrieve the database structure/column names and types via an odbc 
 
 - 👯 I would be interested in learning more about the software development, DevOPs, and Data Engineer career paths -- not sure which to pursue long term.
 
-- 📫 My interests: Brazilian Jiu Jitsu (purple belt), video games (Dead by Daylight, anyone?), and painting.
+📫 My interests: Brazilian Jiu Jitsu (purple belt), video games (Dead by Daylight, anyone?), and painting.
